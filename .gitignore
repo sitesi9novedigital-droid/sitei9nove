@@ -1,0 +1,5 @@
+dist/*
+!dist/i9nove-digital.zip
+node_modules/
+.playground/
+*.log

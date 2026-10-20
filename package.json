@@ -1,0 +1,11 @@
+{
+  "name": "i9nove-wordpress-theme",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bash tools/dev.sh",
+    "package": "python3 tools/package.py"
+  },
+  "devDependencies": {"@wp-playground/cli": "3.1.60"},
+  "engines": {"node": ">=24.18.0", "npm": ">=11.16.0"}
+}

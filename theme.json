@@ -1,0 +1,187 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "760px",
+      "wideSize": "1140px"
+    },
+    "color": {
+      "defaultPalette": false,
+      "palette": [
+        {
+          "slug": "purple",
+          "name": "Roxo principal",
+          "color": "#7B2FF7"
+        },
+        {
+          "slug": "dark-purple",
+          "name": "Roxo escuro",
+          "color": "#2A0A5C"
+        },
+        {
+          "slug": "ink",
+          "name": "Texto principal",
+          "color": "#161515"
+        },
+        {
+          "slug": "muted",
+          "name": "Texto secundário",
+          "color": "#555555"
+        },
+        {
+          "slug": "light",
+          "name": "Fundo claro",
+          "color": "#F8F6FF"
+        },
+        {
+          "slug": "white",
+          "name": "Branco",
+          "color": "#FFFFFF"
+        },
+        {
+          "slug": "border",
+          "name": "Borda",
+          "color": "#E6E0F8"
+        }
+      ]
+    },
+    "typography": {
+      "fluid": true,
+      "fontFamilies": [
+        {
+          "fontFamily": "Poppins, sans-serif",
+          "slug": "poppins",
+          "name": "Poppins",
+          "fontFace": [
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "src": [
+                "file:./assets/fonts/poppins-400.ttf"
+              ]
+            },
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "600",
+              "src": [
+                "file:./assets/fonts/poppins-600.ttf"
+              ]
+            },
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "700",
+              "src": [
+                "file:./assets/fonts/poppins-700.ttf"
+              ]
+            }
+          ]
+        }
+      ],
+      "fontSizes": [
+        {
+          "slug": "small",
+          "name": "small",
+          "size": "14px"
+        },
+        {
+          "slug": "medium",
+          "name": "medium",
+          "size": "18px"
+        },
+        {
+          "slug": "large",
+          "name": "large",
+          "size": "28px"
+        },
+        {
+          "slug": "x-large",
+          "name": "x-large",
+          "size": "40px"
+        },
+        {
+          "slug": "xx-large",
+          "name": "xx-large",
+          "size": "64px"
+        }
+      ]
+    },
+    "spacing": {
+      "units": [
+        "px",
+        "rem",
+        "%",
+        "vw"
+      ],
+      "blockGap": "24px"
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#F8F6FF",
+      "text": "#161515"
+    },
+    "typography": {
+      "fontFamily": "var:preset|font-family|poppins",
+      "fontSize": "18px",
+      "lineHeight": "1.6"
+    },
+    "spacing": {
+      "blockGap": "24px"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontWeight": "700",
+          "lineHeight": "1.15",
+          "letterSpacing": "-0.04em"
+        },
+        "color": {
+          "text": "#130c30"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "#7B2FF7"
+        }
+      },
+      "button": {
+        "border": {
+          "radius": "8px"
+        },
+        "color": {
+          "background": "#7B2FF7",
+          "text": "#FFFFFF"
+        },
+        "spacing": {
+          "padding": {
+            "top": "16px",
+            "bottom": "16px",
+            "left": "32px",
+            "right": "32px"
+          }
+        },
+        "typography": {
+          "fontSize": "16px",
+          "fontWeight": "600"
+        }
+      }
+    }
+  },
+  "templateParts": [
+    {
+      "name": "header",
+      "title": "Cabeçalho",
+      "area": "header"
+    },
+    {
+      "name": "footer",
+      "title": "Rodapé",
+      "area": "footer"
+    }
+  ]
+}
