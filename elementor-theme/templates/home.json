@@ -1,0 +1,1107 @@
+{
+  "version": "0.4",
+  "title": "i9nove — home",
+  "type": "page",
+  "content": [
+    {
+      "id": "000000c",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section i9-hero",
+        "css_id": "inicio"
+      },
+      "elements": [
+        {
+          "id": "000000d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "0000006",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>ESTRATÉGIA · DESIGN · TECNOLOGIA</p>",
+                "_css_classes": "i9-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000007",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Seu negócio<br>mais longe<br><span>com o digital certo.</span>",
+                "header_size": "h1"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000008",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Estratégia, design e tecnologia para<br>sua marca crescer de forma consistente.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000009",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Fale com a gente",
+                "link": {
+                  "url": "#contato"
+                },
+                "size": "md",
+                "_css_classes": "i9-button"
+              },
+              "elements": []
+            },
+            {
+              "id": "000000a",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Ver projetos",
+                "link": {
+                  "url": "#projetos"
+                },
+                "size": "md",
+                "_css_classes": "i9-button i9-outline"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000000e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "000000b",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/hero.svg",
+                  "id": "",
+                  "alt": "Notebook i9nove Digital"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000013",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section i9-essence",
+        "css_id": "essencia"
+      },
+      "elements": [
+        {
+          "id": "0000014",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "000000f",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/office.webp",
+                  "id": "",
+                  "alt": "Arquitetura contemporânea"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000015",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "0000010",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Estratégia que<br>vira resultado.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000011",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>A i9nove Digital é uma agência especializada em soluções digitais que impulsionam marcas, conectam pessoas e geram resultados reais.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000012",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><strong>✦ +100</strong> Projetos entregues &nbsp; <strong>✦ +50</strong> Clientes atendidos &nbsp; <strong>✦ +98%</strong> de satisfação</p>",
+                "_css_classes": "i9-stats"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000019",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section-heading",
+        "css_id": "solucoes"
+      },
+      "elements": [
+        {
+          "id": "000001a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "0000016",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>O QUE FAZEMOS</p>",
+                "_css_classes": "i9-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000017",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Soluções completas<br>para o seu crescimento.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000018",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Do planejamento à execução, oferecemos tudo o que sua marca precisa para se destacar no digital.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000027",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-cards i9-services",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "0000028",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "000001b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>◎</p>",
+                "_css_classes": "i9-service-icon"
+              },
+              "elements": []
+            },
+            {
+              "id": "000001c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Estratégia Digital",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "000001d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Planejamento para posicionar sua marca com mais resultado.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000029",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "000001e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>✧</p>",
+                "_css_classes": "i9-service-icon"
+              },
+              "elements": []
+            },
+            {
+              "id": "000001f",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Identidade Visual",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000020",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Design que comunica o valor do seu negócio.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000002a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000021",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>▣</p>",
+                "_css_classes": "i9-service-icon"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000022",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Sites e Plataformas",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000023",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Experiências digitais modernas e de alta performance.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000002b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000024",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>↗</p>",
+                "_css_classes": "i9-service-icon"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000025",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Marketing e Conteúdo",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000026",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Conteúdo estratégico para atrair, engajar e converter.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "000002e",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section-heading i9-process-heading",
+        "css_id": "processo"
+      },
+      "elements": [
+        {
+          "id": "000002f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "000002c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Do planejamento ao resultado.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "000002d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Um processo claro e colaborativo para transformar ideias em resultados reais.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "000003c",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-process i9-grid",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "000003d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000030",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>01</p>",
+                "_css_classes": "i9-step-number"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000031",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Diagnóstico",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000032",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Entendemos seu cenário, objetivos e oportunidades.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000003e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000033",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>02</p>",
+                "_css_classes": "i9-step-number"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000034",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Planejamento",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000035",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Definimos a estratégia ideal para o seu projeto.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000003f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000036",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>03</p>",
+                "_css_classes": "i9-step-number"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000037",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Execução",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000038",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Desenvolvemos e implementamos as soluções.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000040",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000039",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>04</p>",
+                "_css_classes": "i9-step-number"
+              },
+              "elements": []
+            },
+            {
+              "id": "000003a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Acompanhamento",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "000003b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Monitoramos os resultados e evoluímos continuamente.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000044",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section-heading",
+        "css_id": "projetos"
+      },
+      "elements": [
+        {
+          "id": "0000045",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "0000041",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>IDEIAS QUE GANHAM VIDA</p>",
+                "_css_classes": "i9-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000042",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Projetos que geram resultados.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000043",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Marcas que confiaram na i9nove e hoje colhem resultados reais.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000052",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-cards i9-projects",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "0000053",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000046",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/brand.svg",
+                  "id": "",
+                  "alt": "Marca Corporativa"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000047",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Marca Corporativa",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000048",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Identidade Visual</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000054",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "0000049",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/hero.svg",
+                  "id": "",
+                  "alt": "Site Institucional"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            },
+            {
+              "id": "000004a",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Site Institucional",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "000004b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Desenvolvimento Web</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000055",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "000004c",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/mobile.svg",
+                  "id": "",
+                  "alt": "Plataforma Digital"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            },
+            {
+              "id": "000004d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Plataforma Digital",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "000004e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>UX/UI e Desenvolvimento</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000056",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25.0
+          },
+          "elements": [
+            {
+              "id": "000004f",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/campaign.svg",
+                  "id": "",
+                  "alt": "Campanha Digital"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000050",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Campanha Digital",
+                "header_size": "h3"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000051",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Marketing e Conteúdo</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "000005b",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section i9-about",
+        "css_id": "sobre"
+      },
+      "elements": [
+        {
+          "id": "000005c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "0000057",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "{{I9_ASSET}}/images/about.webp",
+                  "id": "",
+                  "alt": "Arquitetura e luz natural"
+                },
+                "image_size": "full",
+                "_css_classes": "i9-image"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "000005d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50.0
+          },
+          "elements": [
+            {
+              "id": "0000058",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mais que uma agência,<br>uma parceira de crescimento.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000059",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Acreditamos no poder das ideias bem executadas. Unimos estratégia, criatividade e tecnologia para construir soluções que fazem sentido para o seu negócio e para as pessoas que importam: seus clientes.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "000005a",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Conheça a i9nove",
+                "link": {
+                  "url": "#essencia"
+                },
+                "size": "md",
+                "_css_classes": "i9-button"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000061",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section i9-blog",
+        "css_id": "blog"
+      },
+      "elements": [
+        {
+          "id": "0000062",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "000005e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Conteúdos que impulsionam.",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "000005f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Insights, tendências e dicas para você ir mais longe no digital.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000060",
+              "elType": "widget",
+              "widgetType": "shortcode",
+              "settings": {
+                "shortcode": "[i9nove_posts]"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000067",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-section i9-contact",
+        "css_id": "contato"
+      },
+      "elements": [
+        {
+          "id": "0000068",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "0000063",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Vamos construir<br>o próximo passo do seu negócio?",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000064",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Fale com a gente e descubra como a i9nove pode ajudar sua marca a crescer.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000065",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Configure o e-mail ou WhatsApp da agência no botão abaixo.</p>",
+                "_css_classes": "i9-contact-note"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000066",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Fale com a gente",
+                "link": {
+                  "url": "mailto:contato@example.com"
+                },
+                "size": "md",
+                "_css_classes": "i9-button"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

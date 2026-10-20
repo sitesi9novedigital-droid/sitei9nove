@@ -1,0 +1,66 @@
+{
+  "version": "0.4",
+  "title": "i9nove — header",
+  "type": "page",
+  "content": [
+    {
+      "id": "0000003",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-header",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "0000004",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25
+          },
+          "elements": [
+            {
+              "id": "0000001",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><a class=\"brand\" href=\"/\">i9nove<span>D I G I T A L</span></a></p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000005",
+          "elType": "column",
+          "settings": {
+            "_column_size": 75
+          },
+          "elements": [
+            {
+              "id": "0000002",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><nav aria-label=\"Navegação principal\"><a href=\"/#inicio\">Home</a><a href=\"/#solucoes\">Soluções</a><a href=\"/#projetos\">Projetos</a><a href=\"/#sobre\">Sobre</a><a href=\"/#blog\">Blog</a><a class=\"i9-nav-cta\" href=\"/#contato\">Fale com a gente</a></nav></p>",
+                "_css_classes": "i9-menu"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

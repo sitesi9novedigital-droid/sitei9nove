@@ -4,8 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "bash tools/dev.sh",
-    "package": "python3 tools/package.py"
+    "package": "python3 tools/package.py",
+    "package:elementor": "python3 tools/package-elementor.py",
+    "dev:elementor": "bash tools/dev-elementor.sh"
   },
-  "devDependencies": {"@wp-playground/cli": "3.1.60"},
-  "engines": {"node": ">=24.18.0", "npm": ">=11.16.0"}
+  "devDependencies": {
+    "@wp-playground/cli": "3.1.60"
+  },
+  "engines": {
+    "node": ">=24.18.0",
+    "npm": ">=11.16.0"
+  }
 }

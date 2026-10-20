@@ -1,0 +1,149 @@
+{
+  "version": "0.4",
+  "title": "i9nove — footer",
+  "type": "page",
+  "content": [
+    {
+      "id": "000006f",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-footer",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "0000070",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33.333333333333336
+          },
+          "elements": [
+            {
+              "id": "0000069",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><a class=\"brand\" href=\"/\">i9nove<span>D I G I T A L</span></a></p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "000006a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Estratégia, design e tecnologia<br>para marcas que querem ir mais longe.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000071",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33.333333333333336
+          },
+          "elements": [
+            {
+              "id": "000006b",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Explore",
+                "header_size": "h4"
+              },
+              "elements": []
+            },
+            {
+              "id": "000006c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><a href=\"/#inicio\">Home</a><br><a href=\"/#solucoes\">Soluções</a><br><a href=\"/#projetos\">Projetos</a><br><a href=\"/#sobre\">Sobre</a></p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0000072",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33.333333333333336
+          },
+          "elements": [
+            {
+              "id": "000006d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Vamos conversar",
+                "header_size": "h4"
+              },
+              "elements": []
+            },
+            {
+              "id": "000006e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Conte sobre o seu próximo projeto.<br><a href=\"/#contato\">Entre em contato →</a></p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "0000074",
+      "elType": "section",
+      "settings": {
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1140
+        },
+        "gap": "wide",
+        "css_classes": "i9-copyright",
+        "css_id": ""
+      },
+      "elements": [
+        {
+          "id": "0000075",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100.0
+          },
+          "elements": [
+            {
+              "id": "0000073",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>© i9nove Digital. Todos os direitos reservados.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": {
+    "hide_title": "yes"
+  }
+}

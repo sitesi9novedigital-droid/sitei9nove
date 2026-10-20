@@ -1,4 +1,10 @@
-# i9nove Digital — tema WordPress de blocos
+# i9nove Digital — temas WordPress
+
+## Versão Elementor
+
+Para editar pelo Elementor gratuito, utilize **dist/i9nove-elementor.zip**. A versão tem importador para home, cabeçalho e rodapé. Veja [as instruções de instalação](elementor-theme/README.md). O tema de blocos continua disponível em **dist/i9nove-digital.zip**. São temas independentes: ative uma versão por vez.
+
+## Versão de blocos
 
 Tema baseado no layout de referência: hero, essência, soluções, processo, projetos, sobre, blog, chamada de contato e rodapé. Não precisa de Elementor ou plugins de blocos.
 

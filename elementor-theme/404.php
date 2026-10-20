@@ -1,0 +1,1 @@
+<?php get_header(); ?><main id="i9-main" class="i9-document"><h1>Esta página não foi encontrada.</h1><p><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Voltar para o início →</a></p></main><?php get_footer(); ?>

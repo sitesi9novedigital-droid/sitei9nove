@@ -1,0 +1,1 @@
+{"preferredVersions": {"php": "8.3", "wp": "6.8.3"}, "steps": [{"step": "activatePlugin", "pluginPath": "elementor/elementor.php"}, {"step": "activateTheme", "themeFolderName": "i9nove-elementor"}]}

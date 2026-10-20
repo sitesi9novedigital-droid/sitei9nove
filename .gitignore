@@ -3,3 +3,4 @@ dist/*
 node_modules/
 .playground/
 *.log
+!dist/i9nove-elementor.zip
